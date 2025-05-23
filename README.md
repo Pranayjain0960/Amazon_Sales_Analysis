@@ -15,13 +15,9 @@ This project explores an Amazon sales dataset to uncover trends in product sizes
 
 ## 📁 Dataset
 -Source: Internal Amazon sales report provided as Amazon Sale Report.csv
-
 -Key Columns:
-
 Date, Qty, Amount, Size, Category
-
 Courier Status, Status, B2B
-
 ship-city, ship-state, ship-postal-code
 
 ## 📈 Key Visualizations
